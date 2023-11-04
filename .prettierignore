@@ -1,0 +1,14 @@
+dist
+node_modules
+.gitignore
+.github
+.eslintignore
+.husky
+.nvmrc
+.prettierignore
+LICENSE
+*.md
+*.mdx
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
