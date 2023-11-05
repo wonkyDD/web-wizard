@@ -21,7 +21,6 @@ export default function log(message: string, type?: ColorType) {
       color = COLORS[type];
       break;
   }
-
   console.log(color, message);
 }
 
