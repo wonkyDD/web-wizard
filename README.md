@@ -2,6 +2,9 @@
 
 include all the web tools you need in one extension
 
+## TODO
+
+- [ ] package 업데이트
 - template 관련
   - [x] [twind invalid class](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/issues/243) 이슈해결
   - [ ] [계속 에러윈도우에 web-socket 끊어졌다고 경고뜨는]() 이슈 해결
