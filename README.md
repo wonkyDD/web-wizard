@@ -4,9 +4,9 @@ include all the web tools you need in one extension
 
 ## TODO
 
-- 템플릿 sync
+- 템플릿과 동기화
   - [x] [Enhance: Add web extension polyfill](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/commit/09cce358c66e302b4e05963fcb7c0f3ffd32b065)
-  - [ ] [chore/ Update packages](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/commit/abe4ebfca0358f7de187dc6b91bdb336d296d14f)
+  - [x] [chore/ Update packages](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/commit/abe4ebfca0358f7de187dc6b91bdb336d296d14f)
 - template 관련
   - [x] [twind invalid class](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/issues/243) 이슈해결
   - [x] [계속 에러윈도우에 web-socket 끊어졌다고 경고뜨는 이슈]()  => 의도된 동작이라고 한다
