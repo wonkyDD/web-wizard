@@ -4,7 +4,7 @@ include all the web tools you need in one extension
 
 ## TODO
 
-- 템플릿과 동기화
+- **템플릿과 동기화**
   - [x] [Enhance: Add web extension polyfill](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/commit/09cce358c66e302b4e05963fcb7c0f3ffd32b065)
   - [x] [chore/ Update packages](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/commit/abe4ebfca0358f7de187dc6b91bdb336d296d14f)
 - template 관련
@@ -14,4 +14,18 @@ include all the web tools you need in one extension
     - [x] rollup 설정 때문에 함부로 `"@/*": ["./*"]` 를 추가해서 하면 안됨
     - [x] global.css 처리는 어떻게 할건지? => `@src/global.css`로 해결
     - [x] content-view가 안보임 => `@pages/content/index.ts`에서 import를 사용하지 않는다 (핫리로드 불가한 부분)
+- [x] jest -> vitest로 마이그레이션
 - [ ] 위의 사항들 다 완료되면 `vaknil-extension` 으로 새로운 레포 생성
+- [ ] [jotai](https://jotai.org/) 사용하기
+
+<br>
+
+## miscellaneous
+
+- [ ] e2e test with Playwright
+
+<br>
+
+## matirial
+
+
