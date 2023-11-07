@@ -73,6 +73,13 @@ export default defineConfig({
       },
     },
   },
+  // https://www.robinwieruch.de/vitest-react-testing-library/
+  test: {
+    globals: true,
+    environment: 'jsdom',
+    include: ['**/*.test.ts', '**/*.test.tsx'],
+    setupFiles: './test-utils/vitest.setup.js',
+  }
 });
 
 function firstUpperCase(str: string) {

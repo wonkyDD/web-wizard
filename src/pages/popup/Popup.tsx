@@ -13,7 +13,7 @@ const Popup = () => {
   return (
     <div className="App">
       <Button className="bg-slate-300">Button</Button>
-      <div className='text-white py-10'>hello</div>
+      <div className="text-white py-10">hello</div>
     </div>
   );
 };

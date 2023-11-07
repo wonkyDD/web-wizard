@@ -1,3 +1,5 @@
+// import { test, expect } from '@playwright/test'
+import { describe, test } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import App from '@pages/content/components/Demo/app';
 

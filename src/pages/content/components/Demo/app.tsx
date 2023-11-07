@@ -5,6 +5,6 @@ export default function App() {
   useEffect(() => {
     log('content view loaded');
   }, []);
-  // return <div className="">content view</div>;
+  // return <div className='hidden'>content view</div>;
   return <div></div>;
 }

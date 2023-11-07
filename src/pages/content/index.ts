@@ -8,7 +8,7 @@ console.log('🚀 content loaded');
 /**
  * @description
  * Chrome extensions don't support modules in content scripts.
- * 
+ *
  * @todo
  * background 와 signal 주고받아서 turn/off 조정
  */
